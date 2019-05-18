@@ -1,0 +1,39 @@
+#main-bio {
+    color:green;
+    font-size: 115px;float: left;
+}
+
+#contact-info {
+    color:red;
+    float: left;
+    width: 30%;
+    line-height: 1.5;
+}
+
+#bio-image {
+    border: 1px solid orange;
+    background-color: blue;
+    padding: 2px;
+    float: left;
+    width: 200px;
+}
+
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+    color: #eee;
+    font-size: 28px;
+}
+h2 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+
+}
